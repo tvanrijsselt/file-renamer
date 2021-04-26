@@ -1,4 +1,4 @@
-"""This module"""
+"""This main module calls the helper functions in the main-function, such that the right files in the right folder are changed."""
 import os
 from helperfunctions import ask_input_for_path, ask_input_base_filename, files_ending_with_chars
 
