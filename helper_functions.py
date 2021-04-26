@@ -1,6 +1,5 @@
 """The helperfunctions of the file-renamer project"""
 import os
-import contextlib
 
 
 def ask_input_for_path():
