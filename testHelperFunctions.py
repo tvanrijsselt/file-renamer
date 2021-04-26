@@ -1,7 +1,7 @@
 """Module to run unittests"""
 
 import unittest
-import helperFunctions
+import helper_functions
 
 class TestHelperFunctions(unittest.TestCase):
     """This is a class docstring"""
