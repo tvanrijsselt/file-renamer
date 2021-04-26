@@ -25,6 +25,19 @@ To run this project install Python 3.9 on your machine:
 $ cd ../file-rename
 $ python main.py
 
-## Warning
+## Running the script tutorial
 
-This project was created on a Windows machine, no guarentee that the program will run without errors on other operatingsystems, because of the different path names.
+<br> If you want to change the name of certain files, such as these:
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<br> Open terminal
+<br> Change directory to root of file-rename project folder
+<br> Call python main.py
+<br> Paste directory where you want files to change
+<br> Enter yes if you only want to change files of a certain extension (i.e. png)
+<br> Visualized steps in Terminal
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
+## Improvements to be made
+
+Pathlib module will be added to manage the file paths, such that the project can also be operating systems such as macOS / Linux. Because of the current usage of the double backslash (escape), this project will probably not run on operating systems other than Windows.
