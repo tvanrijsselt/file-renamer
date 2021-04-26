@@ -28,15 +28,14 @@ $ python main.py
 ## Running the script tutorial
 
 <br> If you want to change the name of certain files, such as these:
-![test](https://octodex.github.com/images/yaktocat.png)
-![Image of filenames to change](https://github.com/tvanrijsselt/file-renamer/master/tutorial_mages/files.png)
+![Image of filenames to change](https://github.com/tvanrijsselt/file-renamer/blob/master/tutorial_images/files.png)
 <br> Open terminal
 <br> Change directory to root of file-rename project folder
 <br> Call python main.py
 <br> Paste directory where you want files to change
 <br> Enter yes if you only want to change files of a certain extension (i.e. png)
 <br> Visualized steps in Terminal:
-![Overview of flow in Terminal](https://github.com/tvanrijsselt/file-renamer/master/tutorial_mages/screenshotfinal.png)
+![Overview of flow in Terminal](https://github.com/tvanrijsselt/file-renamer/blob/master/tutorial_images/screenshotfinal.png)
 
 
 ## Improvements to be made
