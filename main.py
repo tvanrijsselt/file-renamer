@@ -17,6 +17,6 @@ def main():
             source = path + filename # Actual name of the file
             destination = path + full_name # New name of the file
             os.rename(source, destination) #rename function will rename the files
-    print(f"The filenames are changed. End of script")
+    print("The filenames are changed. End of script")
 if __name__ == '__main__':
     main() # Calling main() function
