@@ -13,8 +13,8 @@ After a holiday you come home with many photos of your trip. These generally hav
 <br>DISC09222.jpg
 <br>DISC09223.jpg
 <br>DISC09224.jpg
-By calling the program to change these files with the basename barcelona042421. 
 
+By calling the program to change these files with the basename barcelona042421. 
 The files will be renamed to:
 <br>barceonaDDMMYYYY_1.jpg
 <br>barceonaDDMMYYYY_2.jpg
