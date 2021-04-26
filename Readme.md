@@ -28,6 +28,7 @@ $ python main.py
 ## Running the script tutorial
 
 <br> If you want to change the name of certain files, such as these:
+![test](https://octodex.github.com/images/yaktocat.png)
 ![Image of filenames to change](https://github.com/tvanrijsselt/file-renamer/master/tutorial_mages/files.png)
 <br> Open terminal
 <br> Change directory to root of file-rename project folder
